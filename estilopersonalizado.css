@@ -7,3 +7,10 @@ body{
     background-repeat: no-repeat;
     height: 100vh;
 }
+
+/*area das Lojas
+*/
+.mapa{
+    width: 80%;
+    height: 70vh;
+}
